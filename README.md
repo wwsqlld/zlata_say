@@ -8,8 +8,6 @@ pip install zlata-say
 
 ## Использование
 
-```python
-from zlata-say import say
-
-say()
+```bash
+zlata-say
 ```
